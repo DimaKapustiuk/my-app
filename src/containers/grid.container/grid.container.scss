@@ -1,0 +1,15 @@
+.grid-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+ 
+
+  &__description-navigate {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px 0 20px 0;
+  }
+
+}
